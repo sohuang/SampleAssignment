@@ -22,3 +22,6 @@ footer {
 	font-size: 90%;
 }
 
+#firstName {
+    display: none;
+}
